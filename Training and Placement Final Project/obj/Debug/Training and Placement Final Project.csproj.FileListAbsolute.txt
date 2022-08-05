@@ -1,0 +1,31 @@
+D:\project for desktop\Training and Placement Final Project\bin\Debug\Training and Placement Final Project.exe.config
+D:\project for desktop\Training and Placement Final Project\bin\Debug\Training and Placement Final Project.exe
+D:\project for desktop\Training and Placement Final Project\bin\Debug\Training and Placement Final Project.pdb
+D:\project for desktop\Training and Placement Final Project\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\project for desktop\Training and Placement Final Project\bin\Debug\Guna.UI2.dll
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training and Placement Final Project.csproj.AssemblyReference.cache
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training and Placement Final Project.csproj.SuggestedBindingRedirects.cache
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.Properties.Resources.resources
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training and Placement Final Project.csproj.GenerateResource.cache
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training and Placement Final Project.csproj.CoreCompileInputs.cache
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training and Placement Final Project.csproj.CopyComplete
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training and Placement Final Project.exe
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training and Placement Final Project.pdb
+D:\project for desktop\Training and Placement Final Project\bin\Debug\GPADatabase.mdf
+D:\project for desktop\Training and Placement Final Project\bin\Debug\GPADatabase_log.ldf
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.Login.resources
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.Dashboard.resources
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.UC_Items_Folder.UC_Welcome.resources
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.UC_Items_Folder.UC_Student.resources
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.UC_Items_Folder.UC_Industry.resources
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.UC_Items_Folder.UC_Placement.resources
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.UC_Items_Folder.UC_Arrange_Interview.resources
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.UC_Items_Folder.UC_Search_All.resources
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.UC_Items_Folder.UC_Shortlisted_Students.resources
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.UC_Items_Folder.UC_Eligible_Students.resources
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.UC_Items_Folder.UC_Training.resources
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.UC_Items_Folder.UC_Industry_Information.resources
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.UC_Items_Folder.UC_ADD_User.resources
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.UC_Items_Folder.StudentForm.resources
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.UC_Items_Folder.TrainingST.resources
+D:\project for desktop\Training and Placement Final Project\obj\Debug\Training_and_Placement_Final_Project.UC_Items_Folder.DeletePageAll.resources
